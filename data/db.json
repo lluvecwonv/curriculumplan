@@ -1,6 +1,6 @@
 {
     "host": "your.database.host",
-    "port": 3306,
+    "port": "your.fort.number",
     "user": "your_username",
     "password": "your_password",
     "database": "your_database",
