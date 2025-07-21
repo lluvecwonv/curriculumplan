@@ -19,9 +19,9 @@ Designing an optimal learning path is hard: learners must sift through hundreds 
 <table align="center">
   <tr>
     <td align="center">
-      <img src="oveview.png" alt="Teaser Figure" style="width: 700px;"/>
+      <img src="overview.png" alt="Pipeline overview" style="width: 700px;"/>
       <br>
-      <em><strong>Figure 1:</strong> End‑to‑end curriculum generation pipeline.</em>
+      <em><strong>Figure&nbsp;1:</strong> End‑to‑end curriculum generation pipeline.</em>
     </td>
   </tr>
 </table>
