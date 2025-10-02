@@ -58,3 +58,36 @@ python main.py \
 
 
 ---
+## Integration with JBNU AI Mentor
+
+This **CurriculumPlan** module is also integrated into the  
+[**JBNU AI Mentor**](https://github.com/lluvecwonv/Ai_mentor) system  
+as the **Curriculum Agent** (`curriculum-main`, Port **7996**).
+
+In that system, it works alongside other agents such as:
+
+- **SQL Agent** (`tool_sql-main`) — Academic database queries  
+- **FAISS Agent** (`faiss_search-main`) — Vector-based course retrieval  
+- **Department Mapping Agent** (`department_mapping-main`) — Department normalization  
+- **LLM Orchestration Agent** (`llm_agent-main`) — LangGraph-based orchestration  
+
+Together, these agents provide:  
+- 📚 **Personalized curriculum recommendations**  
+- 🗂️ **Course information and schedules**  
+- 🎓 **Academic guidance for Jeonbuk National University students**  
+
+---
+## Citation
+
+If you use this work, please cite:
+
+```bibtex
+@inproceedings{Jin2025CurriculumPlan,
+  author    = {Hyeon Jin, Chaewon Yoon and Hyun-Je Song},
+  title     = {Curriculum Planning for Independent Majors with Large Language Models},
+  booktitle = {Proceedings of the 26th International Conference on Artificial Intelligence in Education (AIED)},
+  pages     = {463--476},
+  year      = {2025},
+  publisher = {Springer},
+  doi       = {10.1007/978-3-031-98417-4_33}
+}
