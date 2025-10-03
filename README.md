@@ -62,7 +62,7 @@ python main.py \
 
 This **CurriculumPlan** module is also integrated into the  
 [**JBNU AI Mentor**](https://github.com/lluvecwonv/Ai_mentor) system  
-as the **Curriculum Agent** (`curriculum-main`, Port **7996**).
+as the **Curriculum Agent** (`curriculum-main`).
 
 In that system, it works alongside other agents such as:
 
